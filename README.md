@@ -7,21 +7,20 @@
 
 <p align="left"> <a href="https://twitter.com/prithwikm" target="blank"><img src="https://img.shields.io/twitter/follow/prithwikm?logo=twitter&style=for-the-badge" alt="prithwikm" /></a> </p>
 
-- 🔭 I’m currently working on [AGI](Coming Soon)
+- 🔭 I’m currently working on [AGI]
 
 - 🌱 I’m currently learning **Software Engineering**
 
-- 👯 I’m looking to collaborate on [AGI](Coming Soon)
+- 👯 I’m looking to collaborate on [AGI]
 
-- 🤝 I’m looking for help with [AGI](Coming Soon)
-
-- 👨‍💻 All of my projects are available at [Coming soon](Coming soon)
+- 🤝 I’m looking for help with [AGI]
+- 👨‍💻 All of my projects are available at 
 
 - 💬 Ask me about **React, rust, java script, python, java, c,c++ etc**
 
 - 📫 How to reach me **prithwikmukherjee2002@gmail.com**
 
-- ⚡ Fun fact **Excelsior**
+- ⚡ **Excelsior**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
