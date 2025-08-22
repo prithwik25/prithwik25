@@ -31,8 +31,7 @@
 <a href="https://dribbble.com/prithwikmukherjee073" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="prithwikmukherjee073" height="30" width="40" /></a>
 <a href="https://medium.com/@prithwikmukherjee073" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@prithwikmukherjee073" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@wholesome_japan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="wholesome_japan" height="30" width="40" /></a>
-<a href="https://discord.gg/Prithwik__25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Prithwik__25" height="30" width="40" /></a>
-<a href="/https://prithwik.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://prithwik.com" height="30" width="40" /></a>
+<a href=" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
