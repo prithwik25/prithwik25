@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Software Engineering**
 
-- 💬 Ask me about **React, rust, java script, python, java, c,c++ etc**
+- 💬 Ask me about **React, rust, java script, python, java, c, c++ etc**
 
 - 📫 How to reach me **prithwikmukherjee420@gmail.com**
 
