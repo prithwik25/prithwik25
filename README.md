@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm ᴘʀɪᴛʜᴡɪᴋ ᴍᴜᴋʜᴇʀᴊᴇᴇ</h1>
 <h3 align="center">A passionate Software Engineer</h3>
 # 💫 About Me:
+<p align="left"> <a href="https://twitter.com/prithwikm" target="blank"><img src="https://img.shields.io/twitter/follow/prithwikm?logo=twitter&style=for-the-badge" alt="prithwikm" /></a> </p>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=nwaliaez&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 - 🔭 I’m currently working on **AGI**
----
-[![](https://visitcount.itsvg.in/api?id=nwaliaez&icon=0&color=0)](https://visitcount.itsvg.in)
 
 - 🌱 I’m currently learning **Software Engineering**
 - 💬 Ask me about **React, rust, java script, python, java, c, c++ etc**
@@ -29,9 +30,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=nwaliaez&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nwaliaez&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<p align="left"> <a href="https://twitter.com/prithwikm" target="blank"><img src="https://img.shields.io/twitter/follow/prithwikm?logo=twitter&style=for-the-badge" alt="prithwikm" /></a> </p>
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=nwaliaez&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+
 
 
 <h3 align="left">Languages and Tools:</h3>
