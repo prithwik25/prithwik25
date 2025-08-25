@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm ᴘʀɪᴛʜᴡɪᴋ ᴍᴜᴋʜᴇʀᴊᴇᴇ</h1>
 <h3 align="center">A passionate Software Engineer</h3>
 # 💫 About Me:
-<p align="left"> <a href="https://twitter.com/prithwikm" target="blank"><img src="https://img.shields.io/twitter/follow/prithwikm?logo=twitter&style=for-the-badge" alt="prithwikm" /></a> </p>
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=nwaliaez&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+<p align="left"> <a href="https://twitter.com/prithwikm" target="blank"><img src="https://img.shields.io/twitter/follow/prithwikm?logo=twitter&style=for-the-badge" alt="prithwikm" /></a>
 - 🔭 I’m currently working on **AGI**
 
 - 🌱 I’m currently learning **Software Engineering**
