@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **React, rust, java script, python, java, c, c++ etc**
 
-- 📫 How to reach me **prithwikmukherjee420@gmail.com**
+- 📫 How to reach me **prithwikmukherjee100@gmail.com**
 
 - ⚡ **Excelsior**
 
