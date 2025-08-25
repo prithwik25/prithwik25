@@ -35,12 +35,3 @@
 ![](https://github-readme-stats.vercel.app/api?username=prithwik25&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=nwaliaez&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nwaliaez&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-
-
-
- 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prithwik25&show_icons=true&locale=en" alt="prithwik25" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prithwik25&" alt="prithwik25" /></p>
-<a href="https://twitter.com/prithwikm" target="blank"><img align="center" 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
