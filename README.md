@@ -5,9 +5,13 @@
 - 🔭 I’m currently working on **AGI**
 
 - 🌱 I’m currently learning **Software Engineering**
+
 - 💬 Ask me about **React, rust, java script, python, java, c, c++ etc**
+
 - 📫 How to reach me **prithwikmukherjee420@gmail.com**
+
 - ⚡ **Excelsior**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/prithwik25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="prithwik25" height="30" width="40" /></a>
