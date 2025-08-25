@@ -1,4 +1,4 @@
-                # 💫 About Me:
+<h1 align="center">💫 About Me:
 <h1 align="center">Hi 👋, I'm ᴘʀɪᴛʜᴡɪᴋ ᴍᴜᴋʜᴇʀᴊᴇᴇ</h1>
 <h3 align="center">A passionate Software Engineer</h3>
 <p align="left"> <a href="https://twitter.com/prithwikm" target="blank"><img src="https://img.shields.io/twitter/follow/prithwikm?logo=twitter&style=for-the-badge" alt="prithwikm" /></a>
