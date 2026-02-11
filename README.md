@@ -22,10 +22,10 @@
 <a href="https://twitter.com/prithwikm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="prithwikm" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/prithwik-mukherjee-914747263" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prithwik-mukherjee-914747263" height="30" width="40" /></a>
 <a href="https://www.facebook.com/profile.php?id=61564978276001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="wholesomejapan/" height="30" width="40" /></a>
-<a href="https://instagram.com/wholesome_japan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="prithwik__2" height="30" width="40" /></a>
+<a href="https://instagram.com/prithwik__25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="prithwik__2" height="30" width="40" /></a>
 <a href="https://dribbble.com/prithwikmukherjee073" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="prithwikmukherjee073" height="30" width="40" /></a>
 <a href="https://medium.com/@prithwikmukherjee073" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@prithwikmukherjee073" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@wholesome_japan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="wholesome_japan" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@prithwik__25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="wholesome_japan" height="30" width="40" /></a>
 <a href=" height="30" width="40" /></a>
 </p>
 
